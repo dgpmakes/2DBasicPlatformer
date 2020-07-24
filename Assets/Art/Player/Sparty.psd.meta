@@ -43,22 +43,22 @@ TextureImporter:
     second: Sparty_SS_5
   - first:
       213: 21300026
-    second: Sparty_0
+    second: Sparty_Idle_1
   - first:
       213: 21300028
-    second: Sparty_1
+    second: Sparty_Idle_2
   - first:
       213: 21300030
-    second: Sparty_2
+    second: Sparty_Walking_1
   - first:
       213: 21300032
-    second: Sparty_3
+    second: Sparty_Walking_2
   - first:
       213: 21300034
-    second: Sparty_4
+    second: Sparty_Walking_3
   - first:
       213: 21300036
-    second: Sparty_5
+    second: Sparty_Jumping
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -144,7 +144,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sparty_0
+      name: Sparty_Idle_1
       rect:
         serializedVersion: 2
         x: 0
@@ -152,7 +152,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -165,7 +165,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sparty_1
+      name: Sparty_Idle_2
       rect:
         serializedVersion: 2
         x: 16
@@ -173,7 +173,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -186,7 +186,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sparty_2
+      name: Sparty_Walking_1
       rect:
         serializedVersion: 2
         x: 32
@@ -194,7 +194,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -207,7 +207,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sparty_3
+      name: Sparty_Walking_2
       rect:
         serializedVersion: 2
         x: 48
@@ -215,7 +215,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -228,7 +228,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sparty_4
+      name: Sparty_Walking_3
       rect:
         serializedVersion: 2
         x: 64
@@ -236,7 +236,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -249,7 +249,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sparty_5
+      name: Sparty_Jumping
       rect:
         serializedVersion: 2
         x: 80
@@ -257,7 +257,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -272,7 +272,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f4145969a21194f908ff94fece9aafe0
     internalID: 0
     vertices: []
     indices: 
